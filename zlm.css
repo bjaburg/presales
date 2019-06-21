@@ -1,0 +1,251 @@
+ .navbar-inverse .navbar-inner, .navbar-inverse .btn-navbar {
+    background: rgba(212, 232, 249, 1) !important;
+      border: 0px solid white;
+  }
+
+  .navbar .brand {
+    margin: 10px !important;
+    width: 350px !important;
+    height: 80px !important;
+    background: url(https://www.zlm.nl/themes/custom/zlm/logo.svg) no-repeat !important;
+  }
+
+
+  .page-header {
+      padding-bottom: 9px;
+      margin: 20px 0 30px;
+      border-bottom: 0px solid #eeeeee;
+      color:rgb(217,42,42) ;
+      *visibility: hidden;
+  }
+
+
+  div.cms-content{
+      visibility: hidden;
+  }
+
+
+  .white-top{
+      background-color:rgba(217, 42, 42, 1);
+      border: 0px solid #000;
+      position: absolute ;
+      bottom: 0px;
+      
+  }
+
+
+  .inline
+  {
+      color:#fff
+      
+  }
+
+  ul a span
+  {
+      color:#fff;
+  }
+
+  .login-box-right
+  {
+      
+      visibility: hidden;
+  }
+
+  .login-box-right
+  {
+      
+      visibility: visible ;
+       position: absolute ;
+      left: 1250px ;
+  }
+
+ .external-idps
+  {
+      position: absolute ;
+      top: 560px ;
+      left: 1310px ;
+  }
+
+  .btn-primary {
+      background-color: rgba(217,42,42,1);
+      background-image: url('https://www.zlm.nl/themes/custom/zlm/images/btn-arrow.svg');
+      background-size: 10px;
+      background-position: right;
+      background-position-x: 175px;
+      width: 192px !important;
+      font-size: small ;
+      text-align: left ;
+      text-transform: capitalize;
+      border-bottom: 0px solid #5195bc;
+      
+  }
+.btn-grey
+{
+    background-color: rgba(217,42,42,1) !important;
+      background-image: url('https://www.zlm.nl/themes/custom/zlm/images/btn-arrow.svg') !important;
+      background-size: 10px !important;
+      background-position: right !important;
+      background-position-x: 175px !important;
+      width: 192px !important;
+      font-size: small  !important;
+      text-align: left  !important;
+      text-transform: capitalize !important;
+      border-bottom: 0px solid #5195bc !important;
+      color: #fff  !important;
+  
+
+}
+
+.btn-medium{
+
+   width: 192px !important;
+}
+
+  .dashboard-item--title{
+      
+      color:rgb(217,42,42) ;
+      border-bottom: solid 1px;
+  }
+  .deep-box {
+    border-radius: 0px;
+      border: solid 0px;
+  }
+
+
+  .list-striped {
+    background-color: #fff;
+  }
+
+  .list-striped li {
+    padding-left: 0px;
+      padding-right: 0px;
+  }
+
+  .list-striped li:nth-child(even) {
+    background: none repeat scroll 0 0 white;
+    box-shadow: 0 0 3px 0 #fff inset;
+  }
+
+  .list-striped li:last-child {
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+
+  .list-striped a {
+    text-shadow: 0 1px 0 #FFFFFF;
+  }
+
+  .setting-label{
+      font-weight: bold;
+      color: #008EC3;
+  }
+
+  .device-label
+  {
+      font-weight: bold;
+      color: #008EC3;
+  }
+
+
+  .input-mini
+  {
+      border: solid 1px #008EC3 !important;
+      width:200px;
+      -webkit-box-shadow:  inset 0px 0px 0px 0px !important;
+      border-radius: 3px !important;
+      
+  }
+  @font-face {
+      font-family: 'Asap';
+      font-style: normal;
+      font-weight: 400;
+      src: local("Asap Regular"), local("Asap-Regular"), url("https://www.zlm.nl//themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-regular.woff2") format("woff2"), url("https://www.zlm.nl//themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-regular.woff") format("woff")
+  }
+
+  @font-face {
+      font-family: 'Asap';
+      font-style: normal;
+      font-weight: 500;
+      src: local("Asap Medium"), local("Asap-Medium"), url("https://www.zlm.nl//themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-500.woff2") format("woff2"), url("https://www.zlm.nl//themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-500.woff") format("woff")
+  }
+
+  @font-face {
+      font-family: 'Asap';
+      font-style: italic;
+      font-weight: 400;
+      src: local("Asap Italic"), local("Asap-Italic"), url("https://www.zlm.nl//themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-italic.woff2") format("woff2"), url("https://www.zlm.nl//themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-italic.woff") format("woff")
+  }
+
+  @font-face {
+      font-family: 'Asap';
+      font-style: italic;
+      font-weight: 500;
+      src: local("Asap Medium Italic"), local("Asap-MediumItalic"), url("https://www.zlm.nl//themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-500italic.woff2") format("woff2"), url("https://www.zlm.nl//themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-500italic.woff") format("woff")
+  }
+
+  @font-face {
+      font-family: 'Asap';
+      font-style: normal;
+      font-weight: 600;
+      src: local("Asap SemiBold"), local("Asap-SemiBold"), url("https://www.zlm.nl//themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-600.woff2") format("woff2"), url("https://www.zlm.nl//themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-600.woff") format("woff")
+  }
+
+  @font-face {
+      font-family: 'Asap';
+      font-style: normal;
+      font-weight: 700;
+      src: local("Asap Bold"), local("Asap-Bold"), url("https://www.zlm.nl/themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-700.woff2") format("woff2"), url("https://www.zlm.nl/themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-700.woff") format("woff")
+  }
+
+  @font-face {
+      font-family: 'Asap';
+      font-style: italic;
+      font-weight: 600;
+      src: local("Asap SemiBold Italic"), local("Asap-SemiBoldItalic"), url("https://www.zlm.nl/themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-600italic.woff2") format("woff2"), url("https://www.zlm.nl/themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-600italic.woff") format("woff")
+  }
+
+  @font-face {
+      font-family: 'Asap';
+      font-style: italic;
+      font-weight: 700;
+      src: local("Asap Bold Italic"), local("Asap-BoldItalic"), url("https://www.zlm.nl/themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-700italic.woff2") format("woff2"), url("https://www.zlm.nl/themes/custom/zlm/compiled/css/../../fonts/asap-v7-latin-700italic.woff") format("woff")
+  }
+  body{
+   font-family: "Asap", Helvetica, Arial, sans-serif;    
+  }
+
+
+  .well {
+      background-color: #fff;
+      padding:0px;
+     -webkit-box-shadow:  inset 0px 0px 0px 0px !important;
+
+      
+  }
+
+  .controls
+  {
+     height: 50px;
+      
+  }
+.lost-password{
+
+  position: relative;
+  top: 100px;
+}
+
+.login-box-left
+{
+    border-right: 1px solid #008EC3;
+    height: 500px;
+    padding-right: 20px;
+    border-spacing: 5px;
+    
+    
+}
+
+h2.login-section-header
+{
+    color: #000 !important;
+    
+}
