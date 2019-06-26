@@ -47,20 +47,22 @@
 
 
 
-  .login-box-rights
+  .login-box-right
   {
       
       visibility: visible ;
-       position: relative ;
-      left: 1250px ;
+      position: relative ;
+      left: 10px ;
   }
 
- .external-idpss
+ .external-idps
   {
       position: relative ;
-      top: 560px ;
-      left: 1310px ;
+      
+      left: 400px ;
   }
+
+
 
   .btn-primary {
       background-color: rgba(217,42,42,1);
