@@ -47,7 +47,7 @@
 
 
 
-  .login-box-right
+  .login-box-rights
   {
       
       visibility: visible ;
@@ -55,7 +55,7 @@
       left: 1250px ;
   }
 
- .external-idps
+ .external-idpss
   {
       position: relative ;
       top: 560px ;
