@@ -45,17 +45,13 @@
       color:#fff;
   }
 
-  .login-box-right
-  {
-      
-      visibility: hidden;
-  }
+
 
   .login-box-right
   {
       
       visibility: visible ;
-       position: absolute ;
+       position: relative ;
       left: 1250px ;
   }
 
